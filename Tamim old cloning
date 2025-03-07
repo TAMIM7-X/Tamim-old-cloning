@@ -1,0 +1,4 @@
+rm -rf OLD-CLONE
+git clone https://github.com/TAMIM7-X/Tamim-old-cloning
+cd OLD-CLONE
+python TAMIM-OLD.py
